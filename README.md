@@ -12,10 +12,10 @@ pip install -r requirements.txt
 
 **Set up your environment variables or the config.json file:**
 
-Provide your bot token.
-Provide embed color. (Optional)
-Provide cogs path. (Optional)
-Provide config.json path. (Optional)
+- Provide your bot token.
+- Provide embed color. (Optional)
+- Provide cogs path. (Optional)
+- Provide config.json path. (Optional)
 
 **Start the bot:**
 ```bash
@@ -25,6 +25,7 @@ python bot.py
 **Configuration**
 You can configure the bot using the config.json file. In this file, you can set your Discord bot token, the embed color, ~~and other settings~~.
 
+# Other
 **Contributing**
 If you want to contribute to this project, please open a new pull request or report an issue in the issue section.
 
