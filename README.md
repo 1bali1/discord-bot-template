@@ -2,7 +2,7 @@
 # Usage 🏴󠁧󠁢󠁥󠁮󠁧󠁿 
 **Clone this repository to your local machine:**
 ```bash
-git clone https://github.com/user/bot-template.git
+https://github.com/1bali1/discord-bot-template
 ```
 
 **Install the required dependencies:**
@@ -35,7 +35,7 @@ If you want to contribute to this project, please open a new pull request or rep
 # Használat  🇭🇺
 **Klónozd ezt a repót a saját gépedre:**
 ```bash
-git clone https://github.com/felhasznalo/bot-template.git
+https://github.com/1bali1/discord-bot-template
 ```
 
 **Telepítsd a szükséges függőségeket:**
